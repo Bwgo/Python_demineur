@@ -1,0 +1,1 @@
+./serveur/bin/crocomine-lite-beta4.exe localhost:8000 ./serveur/cartes/
